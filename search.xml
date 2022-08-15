@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>blog</title>
+      <link href="/2022/08/15/blog/"/>
+      <url>/2022/08/15/blog/</url>
+      
+        <content type="html"><![CDATA[<p>1.spring</p><p><a href="www.baidu.com">spring</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>部署Hexo教程</title>
       <link href="/2022/07/31/%E9%83%A8%E7%BD%B2Hexo%E6%95%99%E7%A8%8B/"/>
       <url>/2022/07/31/%E9%83%A8%E7%BD%B2Hexo%E6%95%99%E7%A8%8B/</url>
