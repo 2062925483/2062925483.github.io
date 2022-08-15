@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>blog</title>
-      <link href="/2022/08/15/blog/"/>
-      <url>/2022/08/15/blog/</url>
-      
-        <content type="html"><![CDATA[<p><strong>安装git</strong></p><p><a href="https://blog.csdn.net/qq_41587516/article/details/112699147?ops_request_misc=%7B%22request_id%22:%22165916435816782246444448%22,%22scm%22:%2220140713.130102334..%22%7D&request_id=165916435816782246444448&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-112699147-null-null.142%5Ev35%5Epc_rank_34&utm_term=git%E4%B8%8B%E8%BD%BD&spm=1018.2226.3001.4187"> Git下载安装_教程</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> blog </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> blog </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>部署Hexo教程</title>
       <link href="/2022/07/31/%E9%83%A8%E7%BD%B2Hexo%E6%95%99%E7%A8%8B/"/>
       <url>/2022/07/31/%E9%83%A8%E7%BD%B2Hexo%E6%95%99%E7%A8%8B/</url>
